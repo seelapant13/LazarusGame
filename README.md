@@ -1,8 +1,3 @@
-# csc413-SecondGame
-
-## Student Name  : Seela Pant
-## Student ID    : 920245401
-
 
 ## src folder is to be used to store source code only.
 
